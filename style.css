@@ -19,7 +19,7 @@ body {
 
 .page-header {
   margin: 0 0 160px;
-  padding: 32px 0 32px;
+  padding: 35px 0 35px;
 }
 
 .page-header .container,
@@ -47,7 +47,7 @@ body {
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 60px;
 }
 
 .hero-image .container {
@@ -97,6 +97,7 @@ body {
 
 .intro p {
   margin: 0 0 32px;
+text-align: center;
 }
 
 .skills-list {
@@ -173,6 +174,7 @@ body {
   padding: 40px 0;
   background-color: #00417d;
   color: #ffffff;
+text-align: center;
 }
 
 .page-footer a {
@@ -181,6 +183,7 @@ body {
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
+
 }
 
 .footer-email {
@@ -191,4 +194,16 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+h1, h2, h3, p{
+text-align: center;
+}
+
+.t, a{
+text-align: center;
+}
+
+.foto{
+border: 10px solid black;
 }
